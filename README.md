@@ -1,19 +1,17 @@
+
 # Ekbal Isak Malnas
 
 ### At Post Gokul Tq Mahur Dist Nanded
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Hi isan good engineer with **Good** working ability
+and heis also *Hard Worker*
+he has completed
 
-- This is
-- an unordered
-- list
+- M tech
+- B tech
 
-1. This is
-2. an ordered
-3. list
+1. 12 th
+2. 10 th
 
 Here is `some code` in the middle of a sentence.
 
@@ -22,9 +20,4 @@ This is
 a block0
 of code
 ```
-
-Here is how you make [a link](https://www.gmail.com/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+Here is how you make [a link](https://www.google.com)
